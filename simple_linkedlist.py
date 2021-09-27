@@ -12,7 +12,7 @@ class Node:
     
     def getValor(self): return self.valor
 
-class LinkedList():
+class LinkedList:
     cabeza = None
     cola = None
     size = 0
